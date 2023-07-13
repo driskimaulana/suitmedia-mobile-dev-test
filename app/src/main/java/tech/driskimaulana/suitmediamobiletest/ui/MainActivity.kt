@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "Please input some words to check.", Toast.LENGTH_SHORT).show();
             return;
         }
-        showDialog(isPalindrome(textToCheck));
+        showDialog(isPalindrome(textToCheck.toLowerCase()));
     }
     
     private fun isPalindrome(textToCheck: String) : Boolean {
