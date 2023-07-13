@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SuitmediaMobileTest</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="oke">OKE</string>
+    <string name="body">Body</string>
+    <string name="title">Result</string>
+    <string name="roronoa_zoro">Selected User Name</string>
+    <string name="d_riski_maulana">D\'Riski Maulana</string>
+</resources>
